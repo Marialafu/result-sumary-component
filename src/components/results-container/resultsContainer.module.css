@@ -1,0 +1,32 @@
+.resultsContainer{
+    background-image: linear-gradient(#7755FF, #2F2CE9);
+    width: 100vw;
+    padding-top: 1.5rem;
+    padding-bottom: 2.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+    box-shadow: 0 1.875rem 3.75rem 0 #3d6cec2a;
+    border-radius: 0 0 1.875rem 1.875rem;
+}
+.title{
+    color: var(--soft-color);
+    font-weight: 700;
+    font-size: 1.125rem;
+}
+.subtitleContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+}
+.subtitleTitle{
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+.subtitleText{
+    font-weight: 500;
+    font-size: 1rem;
+    color: var(--soft-color);
+}

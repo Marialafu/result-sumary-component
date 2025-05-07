@@ -1,0 +1,29 @@
+.sumaryLabelContainer{
+    display: flex;
+    gap: 0.75rem;
+}
+.imgContainer{
+    width: 1.25rem;
+    height: 1.25rem;
+}
+.red{
+    background-color:  #ff555594;
+}
+
+.blue{
+    color: #1125D6;
+}
+.green{
+    color: #00BB8F;
+}
+.yellow{
+    color: #FFB21E;
+}
+.labelTitle{
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+.red .labelTitle{
+    color: blue;
+}

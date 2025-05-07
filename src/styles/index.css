@@ -1,3 +1,7 @@
+:root{
+  --soft-color: #CAC9FF;
+}
+
 *,
 *::after,
 *::before {
@@ -27,4 +31,6 @@ nav ul {
 body {
   margin: 0;
   font-family: sans-serif;
+  font-family: "Hanken Grotesk", sans-serif;
+  color: white;
 }
